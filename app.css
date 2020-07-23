@@ -2,6 +2,7 @@ h1 {
     color: #580000;
     text-align: center;
     font-size: 7rem;
+    font-weight: bold;
 }
 
 body {
@@ -11,4 +12,9 @@ body {
 li {
     color: #C23B22;
     font-size: 3rem;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #FF9E79;
 }
